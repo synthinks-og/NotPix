@@ -133,7 +133,7 @@ Berikut cara penggunaan dibeberapa operasi sistem
 
 3. Kloning repository ini
    ```shell
-   git clone https://github.com/akasakaid/NotPixTod.git
+   git clone https://github.com/synthinks-og/NotPix.git
    ```
 
 4. Masuk ke folder NotPixTod
@@ -165,7 +165,7 @@ Berikut cara penggunaan dibeberapa operasi sistem
 
 2. Kloning repository ini
    ```shell
-   git clone https://github.com/akasakaid/NotPixTod.git
+   git clone https://github.com/synthinks-og/NotPix.git
    ```
 
 3. Masuk ke folder NotPixTod
@@ -201,7 +201,7 @@ Berikut cara penggunaan dibeberapa operasi sistem
 
 2. Kloning repository ini
    ```shell
-   git clone https://github.com/akasakaid/NotPixTod.git
+   git clone https://github.com/synthinks-og/NotPix.git
    ```
 
 3. Masuk ke folder NotPixTod
